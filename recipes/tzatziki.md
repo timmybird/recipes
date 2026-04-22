@@ -24,7 +24,7 @@ Tzatziki är sommarens sås. Gott till det mesta som är grillat.
 - [ ] Riv gurkan grovt på rivjärn
 - [ ] Salta lätt, blanda runt och ställ i en sil
 - [ ] Låt vila c:a 15 minuter så att saltet kan dra ut vätska ur gurkan
-- [ ] Krama ur vätskan ur gurkan (kan göras gemon att klämma i handen, pressa mot silen eller genom en kökshandduk)
+- [ ] Krama ur vätskan ur gurkan (kan göras genom att klämma i handen, pressa mot silen eller genom en kökshandduk)
 - [ ] Rör ner gurkan i youghurten
 - [ ] Pressa ner vitlöken
 - [ ] Salta efter smak
@@ -32,4 +32,4 @@ Tzatziki är sommarens sås. Gott till det mesta som är grillat.
 
 ## Notes
 
-Optional tips, substitutions, or variations.
+För en annorlunda touch kan mynta läggas till
