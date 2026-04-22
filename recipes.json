@@ -17,6 +17,21 @@
     "image": null
   },
   {
+    "title": "Majonnäs",
+    "slug": "majonnas",
+    "file": "majonnas.md",
+    "difficulty": 3,
+    "tags": [
+      "tillbehör"
+    ],
+    "cuisine": null,
+    "prep_time": 5,
+    "total_time": 5,
+    "servings": 8,
+    "source": null,
+    "image": null
+  },
+  {
     "title": "Tzatziki",
     "slug": "tzatziki",
     "file": "tzatziki.md",
