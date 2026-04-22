@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Banana Pancakes",
+    "slug": "banana-pancakes",
+    "file": "banana-pancakes.md",
+    "difficulty": 1,
+    "tags": ["breakfast", "sweet", "quick"],
+    "cuisine": "American",
+    "prep_time": 5,
+    "total_time": 15,
+    "servings": 2,
+    "source": null,
+    "image": null
+  }
+]

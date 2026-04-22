@@ -1,0 +1,17 @@
+title: "Recipes"
+description: "A family recipe collection"
+theme: minima
+
+# Apply the default layout to all recipe pages automatically
+defaults:
+  - scope:
+      path: "recipes"
+    values:
+      layout: "default"
+
+# Exclude helper files from the built site
+exclude:
+  - RECIPE_TEMPLATE.md
+  - CONTRIBUTING.md
+  - recipes.json
+  - ".github"
