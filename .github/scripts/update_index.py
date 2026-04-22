@@ -14,7 +14,7 @@ README_HEADER = """\
 |--------|---------|:----------:|-----:|------:|----------|------|
 """
 
-README_FOOTER = "\n---\n_Index last updated: {ts}_\n"
+README_FOOTER = "\n\n---\n_Index last updated: {ts}_\n"
 
 
 def parse_recipe(path: Path) -> dict:

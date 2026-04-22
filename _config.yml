@@ -2,10 +2,10 @@ title: "Recipes"
 description: "A family recipe collection"
 theme: minima
 
-# Apply the default layout to all recipe pages automatically
+# Apply the default layout to all pages automatically
 defaults:
   - scope:
-      path: "recipes"
+      path: ""
     values:
       layout: "default"
 
