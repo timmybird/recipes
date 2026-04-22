@@ -7,4 +7,4 @@
 | [Tzatziki](recipes/tzatziki.md) | Grekiskt | ★☆☆☆☆ | 20m | 1h 20m | 4 | `grekiskt` `sås` `tillbehör` |
 
 ---
-_Index last updated: 2026-04-22 07:45 UTC_
+_Index last updated: 2026-04-22 07:50 UTC_
