@@ -15,5 +15,22 @@
     "servings": 2,
     "source": null,
     "image": null
+  },
+  {
+    "title": "Tzatziki",
+    "slug": "tzatziki",
+    "file": "tzatziki.md",
+    "difficulty": 1,
+    "tags": [
+      "grekiskt",
+      "sås",
+      "tillbehör"
+    ],
+    "cuisine": "Grekiskt",
+    "prep_time": 20,
+    "total_time": 80,
+    "servings": 4,
+    "source": null,
+    "image": null
   }
 ]
